@@ -1,0 +1,20 @@
+{
+  "name": "esbuilder",
+  "version": "1.0.0",
+  "description": "This is the un-official Elyon Skill Builder (CodeX) and is not affiliated with CodeX or Elyon Development Team.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "elyon",
+    "skill",
+    "builder"
+  ],
+  "author": "ncroMike",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^15.3.0",
+    "electron-packager": "^15.4.0"
+  }
+}
